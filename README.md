@@ -1,7 +1,2 @@
-<p align="center" width="100%">
-   <img width="100" height="300" alt="image" src="https://github.com/user-attachments/assets/969594f5-3f86-408a-98a9-f1bbb3b083df" />
 
-<p align="center" width="100%">
- " would you die 2night 4 love ? "
-
-
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/e41562ec-e34c-4f5e-b433-a0c64de4adcf" />
