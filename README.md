@@ -3,3 +3,8 @@
 
 <p align="center" width="100%">
  " would you die 2night 4 love ? "
+
+<img width="800" height="608" alt="image" src="https://github.com/user-attachments/assets/9a883620-0a7f-4b31-8139-e47a0e09dfd6" />
+
+
+
